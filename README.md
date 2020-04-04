@@ -13,4 +13,4 @@
 
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/)   
-dfsad
+사이트 주소
