@@ -10,4 +10,7 @@
 ![](../header.png)
 
 ## TeachableMachine 사용 방법
-안녕하세요
+
+
+[Teachable Machine](https://teachablemachine.withgoogle.com/)   
+dfsad
